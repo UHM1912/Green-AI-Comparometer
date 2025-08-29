@@ -1,0 +1,17 @@
+# Core UI
+streamlit==1.37.0
+pandas==2.2.2
+plotly==5.23.0
+
+# ML/DL carbon tracking libraries
+eco2ai==0.2.5
+codecarbon==2.3.5
+carbontracker==1.2.4
+
+# Notebook conversion
+jupyter==1.0.0
+nbconvert==7.16.4
+
+# Extra utilities
+psutil==5.9.8
+uuid==1.30
