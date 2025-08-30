@@ -1,6 +1,6 @@
 # Core UI
 streamlit==1.37.0
-pandas>=1.5.3
+pandas==1.4.3
 plotly==5.23.0
 
 # ML/DL carbon tracking libraries
@@ -14,7 +14,7 @@ nbconvert==7.16.4
 
 # Extra utilities
 psutil==5.9.8
-uuid==1.30
-matplotlib
+matplotlib==3.7.5
+
 
 
